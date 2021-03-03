@@ -1,4 +1,4 @@
-#To find maximum maney earned by shreya and mom
+#To find maximum money earned by shreya and mom
 
 numberOfShoePairs = int(input("Available shoe pairs "))
 requiredShoePairs = int(input("Minimum shoe pairs can cary by the shreya and mom "))
